@@ -1,8 +1,9 @@
 #include <stdio.h>
+#include <math.h>
 
-int main(int argc, char *argv[])
+void main()
 {
     do {
         puts("owo");
-    } while (1);
+    } while (pow(0, 0));
 }
